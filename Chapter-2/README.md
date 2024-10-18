@@ -49,9 +49,9 @@
         
         3. Under System variables, click New and add the following:
 
-            - Variable name: JAVA_HOME
+            - **Variable name**: JAVA_HOME
 
-            - Variable value: Path to your JDK installation (e.g., C:\Program Files\Java\jdk-11.x.x)
+            - **Variable value**: Path to your JDK installation (e.g., C:\Program Files\Java\jdk-11.x.x)
 
         4. Click OK to save changes.
 
