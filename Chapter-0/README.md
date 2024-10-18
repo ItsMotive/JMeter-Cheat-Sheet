@@ -4,13 +4,21 @@
 In this chapter, you learned the foundational concepts of performance testing, why it's critical, and the different types of testing that ensure systems meet performance standards. These concepts will be essential as you move forward in learning how to use JMeter for performance testing.
 
 ## Table of Contents
+
 - [Section 1: What is Performance Testing](#section-1-what-is-performance-testing)
+
 - [Section 2: Types of Performance Testing](#section-2-types-of-performance-testing)
+
 - [Section 3: Key Performance Metrics](#section-3-key-performance-metrics)
+
 - [Section 4: Performance Bottlenecks](#section-4-performance-bottlenecks)
+
 - [Section 5: Performance Testing Lifecycle](#section-5-performance-testing-lifecycle)
+
 - [Section 6: Tools for Performance Testing](#section-6-tools-for-performance-testing)
+
 - [Section 7: Real-World Importance of Performance Testing](#section-7-real-world-importance-of-performance-testing)
+
 - [Section 8: Common Misconceptions in Performance Testing](#section-8-common-misconceptions-in-performance-testing)
 
 
