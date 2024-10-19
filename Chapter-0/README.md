@@ -167,3 +167,8 @@ In this chapter, you learned the foundational concepts of performance testing, w
 
 - **"Real users always behave the same way."**
     - Different usage patterns and data loads should be tested to simulate various real-world scenarios.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-1/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
