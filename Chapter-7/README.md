@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- [Section 1: Introduction to Listeners]()
+- [Section 1: Introduction to Listeners](#section-1-introduction-to-listeners)
 
-- [Section 2: Using Basic Listeners for Reporting]()
+- [Section 2: Using Basic Listeners for Reporting](#section-2-sing-basic-listeners-for-reporting)
 
-- [Section 3: Exporting Test Results]()
+- [Section 3: Exporting Test Results](#section-3-exporting-test-results)
 
-- [Summary]()
+- [Summary](#summary)
 
 ## Section 1: Introduction to Listeners
 
