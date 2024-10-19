@@ -83,3 +83,8 @@
 - In this chapter, you learned how to use CSV Data Set Config to parameterize your JMeter tests. 
 
 - By pulling data from CSV files and using variables, you can dynamically simulate multiple users or requests, making your tests more flexible and realistic.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-7/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-9/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

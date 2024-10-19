@@ -128,3 +128,8 @@
 - You understood the test plan structure, configured thread groups to simulate user behavior, added HTTP requests for web app testing, implemented basic assertions to validate server responses, and utilized simple listeners for reporting results. 
 
 - This foundational knowledge will enable you to create effective performance tests for your applications.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-2/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-4/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

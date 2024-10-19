@@ -132,3 +132,8 @@
 - In this chapter, you learned how to install and set up JMeter on Windows, including prerequisites, installation steps, and basic system configuration. 
 - You also learned how to run JMeter in both GUI and CLI modes, providing flexibility for both learning and executing tests. 
 - This foundational knowledge will help you effectively utilize JMeter for performance testing in the upcoming chapters.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-1/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-3/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

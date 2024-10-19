@@ -94,3 +94,8 @@
 - In this chapter, you explored JMeter samplers, focusing on the HTTP Request Sampler essential for web testing scenarios and the JDBC Sampler for database performance testing. 
 
 - Understanding these samplers allows you to effectively simulate user interactions with both web applications and databases, providing valuable insights into performance and reliability.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-3/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-5/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

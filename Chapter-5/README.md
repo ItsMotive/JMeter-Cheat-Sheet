@@ -110,3 +110,8 @@
 - You explored Response Assertions for verifying status codes and keywords, Duration Assertions to check response times, and Size Assertions to ensure data size consistency. 
 
 - Properly using these assertions will help you ensure that your application meets functional and performance criteria during testing.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-4/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-6/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

@@ -104,3 +104,8 @@
 - In this chapter, you explored Timers and Logic Controllers in JMeter. 
 
 - You learned how to use the Constant Timer to simulate real-world delays between requests, and you discovered how to use the If Controller and Loop Controller to manage the flow of your test plan, adding flexibility and control to your testing scenarios.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-5/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-7/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

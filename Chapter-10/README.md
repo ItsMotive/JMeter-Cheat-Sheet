@@ -83,3 +83,8 @@
 - In this chapter, you learned best practices for configuring Thread Groups, running tests with varying load levels, and using JMeter reports to identify performance bottlenecks. 
 
 - Following these guidelines ensures more accurate and reliable performance testing results.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-9/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-11/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

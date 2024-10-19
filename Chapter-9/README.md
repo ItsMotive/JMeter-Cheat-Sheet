@@ -79,3 +79,8 @@
 - In this chapter, you learned how to extend JMeter’s functionality using the Plugins Manager and explored the use of the PerfMon Plugin for server-side monitoring. 
 
 - These plugins enhance JMeter’s capabilities, enabling more advanced test scenarios and detailed performance insights.
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 100px;">
+    <a href="../Chapter-8/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+    <a href="../Chapter-10/README.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
